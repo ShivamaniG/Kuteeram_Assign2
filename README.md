@@ -53,6 +53,22 @@ This is a platform for managing product transactions between buyers and sellers,
 - MongoDB
 
 ### Installation:
-1. Clone the repository:    ```bash
-   git clone https://github.com/your-username/kuteeram_assign.git
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/kuteeram_assign.git
+    ```
+2. Install required dependencies:
+    ```bash
+    npm install
+    ```
+
+3. Set up your MongoDB database and add the required environment variables in a `.env` file:
+    ```
+    MONGO_URI=your-mongodb-connection-string
+    JWT_SECRET=your-jwt-secret
+    ```
+
+4. Start the server:
+    ```bash
+    node server.js
     ```
