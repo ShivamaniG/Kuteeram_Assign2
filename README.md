@@ -55,3 +55,4 @@ This is a platform for managing product transactions between buyers and sellers,
 ### Installation:
 1. Clone the repository:    ```bash
    git clone https://github.com/your-username/kuteeram_assign.git
+    ```
