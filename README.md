@@ -2,6 +2,8 @@
 
 This is a platform for managing product transactions between buyers and sellers, integrated with logistics for delivery. The app allows buyers to bid on products, sellers to list their products, and lorries (drivers) to accept orders for delivery. It also handles OTP verification for pickup and delivery confirmation by the buyer.
 
+## Documentation: https://docs.google.com/document/d/1TPR68YOPFQsCcTqzCkWyi6U-LLpFv1FpHAGkrXdAzZQ/edit?tab=t.0#heading=h.6jpjrd88unvq
+
 ## Features
 
 ### Buyer App:
